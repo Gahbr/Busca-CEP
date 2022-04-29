@@ -2,7 +2,7 @@
 
 
 ## 💻 Sobre o projeto
-Esse site faz busca o endereço de um CEP.
+Esse site faz busca do endereço de um CEP fornecido com o auxílio de um webservice gratuito da [ViaCep](https://viacep.com.br/)
 
 
 ## 🛠 Tecnologias utilizadas
